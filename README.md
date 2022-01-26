@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Turric4n a developer from Barcelona, nice to meet you. 
-## Currently I'm focused mainly in C# and retro things.
+#### Currently I'm focused mainly in C# and retro things.
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=turric4n&theme=github_dark&show_icons=true&hide_title=true&hide_border=true"><br>
