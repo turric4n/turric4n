@@ -2,10 +2,10 @@
 #### Currently I'm focused mainly in C# and retro things.
 
 - 🔭 I’m currently working on a lot C# projects
-- 🌱 I’m currently (trying to learn) learning a lot of things
+- 🌱 I’m currently learning a lot of things
 - 👯 I’m looking to collaborate on some cool project
 - 🤔 I’m looking for help with a lot of things
-- 💬 Ask me about C# 
+- 💬 Ask me about C#, Pascal, C, System Administration and DevOps
 - 📫 How to reach me: turrican(at)hotmail.com
 - ⚡ Fun fact: I like to play games (boardgames, computergames)
 
