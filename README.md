@@ -1,20 +1,18 @@
-### Hi there 👋, I'm Turric4n a developer from Barcelona, nice to meet you. 
-#### Currently I'm focused mainly in C# and retro things.
+### Hi there 👋, I'm Turric4n, a developer from Barcelona. Nice to meet you.
+#### Currently, I'm focused mainly on C# and retro things.
 
-- 🔭 I’m currently working on a lot C# projects
+- 🔭 I’m currently working on a lot of C# projects
 - 🌱 I’m currently learning a lot of things
-- 👯 I’m looking to collaborate on some cool project
+- 👯 I’m looking to collaborate on some cool projects
 - 🤔 I’m looking for help with a lot of things
-- 💬 Ask me about C#, Pascal, C, System Administration and DevOps
+- 💬 Ask me about C#, Pascal, C, System Administration, and DevOps
 - 📫 How to reach me: turrican(at)hotmail.com
-- ⚡ Fun fact: I like to play games (boardgames, computergames)
-
+- ⚡ Fun fact: I like to play games (board games, computer games)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=turric4n&theme=github_dark&show_icons=true&hide_title=true&hide_border=true"><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turric4n&langs_count=6&layout=compact&theme=github_dark&hide_title=true&hide_border=true">
 
-
-### My computer AI benchmarks local ollama using llm_benchmark :
+#### My computer AI benchmarks using local Ollama with llm_benchmark:
 
 **System Information:**
 - Total memory size: 63.87 GB
@@ -86,8 +84,4 @@
 
 <!--
 **turric4n/turric4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 -->
-
-
