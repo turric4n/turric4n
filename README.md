@@ -14,7 +14,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turric4n&langs_count=6&layout=compact&theme=github_dark&hide_title=true&hide_border=true">
 
 
-#### My computer AI benchmarks local ollama using llm_benchmark :
+### My computer AI benchmarks local ollama using llm_benchmark :
 
 **System Information:**
 - Total memory size: 63.87 GB
